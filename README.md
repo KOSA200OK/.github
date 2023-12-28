@@ -49,4 +49,18 @@
 ## 📖 구현 결과
 
 - 채팅
+1. install
+docker
+`
+docker run redis
+`
+vue.js
+`
+npm install sockjs-client
+npm install stompjs
+`
+application.properties
+`
 
+`
+2. 
