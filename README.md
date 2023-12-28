@@ -6,8 +6,7 @@
 <br>
 
 <div align="left">
-   <img src="https://github.com/KOSA200OK/.github/assets/119908089/91998abb-51d0-48ad-8b35-03f19962a843
-" width="60%"></img>
+   <img src="https://github.com/KOSA200OK/KOSA200OK/assets/119908089/5ae037a5-aa3d-4fcb-9fdb-57d068d0521a" width="60%"></img>
 </div>
 
 
