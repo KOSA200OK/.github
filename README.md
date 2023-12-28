@@ -27,13 +27,13 @@
 
 - IDE : Eclipse, vscode, SqlDeveloper
 
-- DataBase : 오라클 전자지갑, redis
+- DataBase : Oracle Cloud 11g, Redis(7.2.3)
 
-- Front : JavaScript, Vue.js, Axios, vue-router
+- Front-end : JavaScript, Vue.js, Axios, vue-router
 
-- Back-end : Spring, Springboot, JPA, Mybatis 
+- Back-end : JDK 11.0.19, Spring, Springboot, JPA, Mybatis 
 
-- 협업 툴 : Github, Notion, draw.io, erdCloud, Jira
+- 협업 도구 : Github, Notion, draw.io, erdCloud, Jira
 
 - 디자인 : Figma
 
@@ -42,6 +42,7 @@
 
 <div align="left">
    <img src="https://github.com/KOSA200OK/.github/assets/119908089/b6ad3629-f07c-4348-8882-f3da5985a7f9" width="60%"></img>
+   ####채팅
 </div>
 
 <br>   
