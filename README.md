@@ -48,26 +48,33 @@
 
 ## 📖 구현 결과
 
-- 채팅
-1. install
+## 채팅
+1. Installation
 
 docker
 ```
-docker run redis
+$docker run redis
 ```
 vue.js
 ```
-npm install sockjs-client
-npm install stompjs
+$cd KOSA_KOWORKS_Front
+$npm install sockjs-client
+$npm install stompjs
 ```
 application.properties
 ```
-spring.redis.host='본인이 사용할 포트번호'
-spring.redis.port=6379
+$spring.redis.host='본인이 사용할 포트번호'
+$spring.redis.port=6379
 ```
 pom.xml
 ```
-spring-boot-starter-data-redis
-spring-boot-starter-websocket 
+$spring-boot-starter-data-redis
+$spring-boot-starter-websocket 
 ```
-2. 
+2. 주요기능
+- 인원수에 상관 없이 실시간 채팅 가능
+- 누구나 자유롭게 채팅방 생성 가능
+- 생성된 채팅방 검색 가능
+- 채팅방 입장시 이름과 사원번호로 입장
+- 채팅 입력 시 본인의 채팅은 화면 오른쪽, 본인을 제외한 사람들의 채팅은 화면 왼쪽에 표시
+- 채팅 입력 시 입력한 시간 표시
