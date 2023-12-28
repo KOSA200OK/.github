@@ -51,16 +51,22 @@
 - 채팅
 1. install
 docker
-`
+```
 docker run redis
-`
+```
 vue.js
-`
+```
 npm install sockjs-client
 npm install stompjs
-`
+```
 application.properties
-`
-
-`
+```
+spring.redis.host='본인이 사용할 포트번호'
+spring.redis.port=6379
+```
+pom.xml
+```
+spring-boot-starter-data-redis
+spring-boot-starter-websocket 
+```
 2. 
