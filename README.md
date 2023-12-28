@@ -1,1 +1,52 @@
-# .github
+## 🙌 KOWROKS (200OK)
+
+- 기획 동기 : 회사에는 공간, 차량, 인적자원 등 다양한 자원이 존재하는데, 이 자원이 효율적으로 운영되지 않는 경우가 많습니다. 회사 운영에서 자원 낭비를 최소화하기 위해 자원을 효율적으로 관리하는 횟 ㅏ자원 관리 시스템을 구축하고자 합니다.
+
+- 차별점 : 기존에 있던 그룹웨어 기능에 더해 자원 관리 기능에 초점을 맞추어 개발하였습니다.
+<br>
+
+<div align="left">
+   <img src="https://github.com/KOSA200OK/.github/assets/119908089/91998abb-51d0-48ad-8b35-03f19962a843
+" width="60%"></img>
+</div>
+
+
+## ❓ 개발기간
+
+<div align="left">
+   <img src="https://github.com/KOSA200OK/.github/assets/119908089/497ff9fe-441d-4450-a7f5-a5dc6e5906ef" width="60%"></img>
+</div>
+
+## 🙋‍♀️ 팀원 소개
+- <a href="https://github.com/CHANOH5" target="_blank"> 오찬석 </a>
+- <a href="https://github.com/nawonhee" target="_blank"> 나원희 </a> 
+- <a href="https://github.com/Logan-CatKeeper" target="_blank"> 서재원 </a> 
+- <a href="https://github.com/aeokseung" target="_blank"> 옥승호 </a> 
+- <a href="https://github.com/ykchoi7" target="_blank"> 최윤경 </a>
+
+## 🛠 개발 환경   
+
+- IDE : Eclipse, vscode, SqlDeveloper
+
+- DataBase : 오라클 전자지갑, redis
+
+- Front : JavaScript, Vue.js, Axios, vue-router
+
+- Back-end : Spring, Springboot, JPA, Mybatis 
+
+- 협업 툴 : Github, Notion, draw.io, erdCloud, Jira
+
+- 디자인 : Figma
+
+
+## 🙋‍♀️ 역할 분담
+
+<div align="left">
+   <img src="https://github.com/KOSA200OK/.github/assets/119908089/b6ad3629-f07c-4348-8882-f3da5985a7f9" width="60%"></img>
+</div>
+
+<br>   
+
+## 📖 구현 결과
+
+
